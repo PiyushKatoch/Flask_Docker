@@ -1,14 +1,14 @@
 # Student Registration
 A simple CRUD application using Flask and MySQL
 
-#Built With
+Built With
 
 * Python
 * Python Libraries: flask and pymysql
 * MySQL
 * AdminLTE 2
 
-#### Running on Docker
+# Running on Docker
 
 ```
 docker-compose up -d
