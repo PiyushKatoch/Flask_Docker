@@ -6,3 +6,4 @@ COPY flask_code/ /app
 RUN pip install -r requirements.txt
 
 ENTRYPOINT ["python", "student_app.py"]
+
